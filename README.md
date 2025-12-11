@@ -13,12 +13,12 @@ With experience in **predictive modeling, data cleaning, and model evaluation**,
 - Interested in AI, predictive modeling, business intelligence, and data engineering foundations  
 - Based in Tunis, Tunisia  
 - Actively seeking an end-of-study internship in **data analytics or machine learning**  
-- 📫 Email: **lina.hadjkacem@msb.tn**  
-- 🔗 LinkedIn: [linkedin.com/in/lina-hajkacem-50461626b](https://linkedin.com/in/lina-hajkacem-50461626b)
+- Email: **lina.hadjkacem@msb.tn**  
+- LinkedIn: [linkedin.com/in/lina-hajkacem-50461626b](https://linkedin.com/in/lina-hajkacem-50461626b)
 
 ---
 
-## 💼 Professional Experience  
+## Professional Experience  
 
 ### **Data Analyst Intern — Attijari Bank Tunisie (06/2025 – 08/2025)**  
 - Cleaned and prepared customer data using **Python (Pandas, NumPy)** for churn analysis  
@@ -39,19 +39,19 @@ With experience in **predictive modeling, data cleaning, and model evaluation**,
 
 ## Projects  
 
-*(Add your project folders here when ready. Example structure below)*  
+#*(Add your project folders here when ready. Example structure below)*  
 
-### 🔹 **Project Name 1**  
+### **Project Name 1**  
 Short description of the project, tools used, and what you did.  
-👉 [Link to Project Folder](./Project1)
+[Link to Project Folder](./Project1)
 
-### 🔹 **Project Name 2**  
+### **Project Name 2**  
 Short description.  
-👉 [Link to Project Folder](./Project2)
+[Link to Project Folder](./Project2)
 
-### 🔹 **Project Name 3**  
+### **Project Name 3**  
 Short description.  
-👉 [Link to Project Folder](./Project3)
+[Link to Project Folder](./Project3)
 
 
 *Thank you for visiting my GitHub! Feel free to explore my projects or reach out for collaboration.*  
